@@ -6,7 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 vidUrl = input("TikTok Link: ")
-#vidUrl = 'https://www.tiktok.com/@repl1c4.world/video/7075744934300601605?is_from_webapp=1&sender_device=pc&web_id=7062786503562774021'
+#vidUrl = 'https://www.tiktok.com/@_shefwlucas/video/7089600825730862382?is_from_webapp=1&sender_device=pc&web_id=6917710853442176518'
 
 
 def captcha():
